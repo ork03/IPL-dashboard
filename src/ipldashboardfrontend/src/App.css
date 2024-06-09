@@ -1,0 +1,11 @@
+.App {
+  padding: 20px;
+  text-align: left;
+}
+
+.woncard{
+  background-color: #4da375;
+}
+.losscard{
+  background-color: rgb(223, 67, 67);
+}
